@@ -16,7 +16,7 @@ namespace SGNB
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form_Cadastro());
+            Application.Run(new Form_Login());
         }
     }
 }
