@@ -1,0 +1,12 @@
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\SGNB\bin\Debug\SGNB.exe.config
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\SGNB\bin\Debug\SGNB.exe
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\SGNB\bin\Debug\SGNB.pdb
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\SGNB\obj\Debug\SGNB.csproj.AssemblyReference.cache
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\SGNB\obj\Debug\SGNB.Properties.Resources.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\SGNB\obj\Debug\SGNB.csproj.GenerateResource.cache
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\SGNB\obj\Debug\SGNB.csproj.CoreCompileInputs.cache
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\SGNB\obj\Debug\SGNB.exe
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\SGNB\obj\Debug\SGNB.pdb
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\SGNB\obj\Debug\SGNB.Form_Inicio.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\SGNB\obj\Debug\SGNB.Form_Login.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\SGNB\obj\Debug\SGNB.Form_Cadastro.resources
