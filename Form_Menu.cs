@@ -8,16 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SGNB
+namespace SGNB_2
 {
-    public partial class Form_Inicio : Form
+    public partial class Form_Menu : Form
     {
-        public Form_Inicio()
+        public Form_Menu()
         {
             InitializeComponent();
-
         }
-
-        
     }
 }

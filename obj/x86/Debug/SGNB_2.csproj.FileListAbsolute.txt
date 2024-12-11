@@ -1,0 +1,13 @@
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\bin\Debug\WindowsApplication.exe.config
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\bin\Debug\WindowsApplication.exe
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\bin\Debug\WindowsApplication.pdb
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB.Form_Cadastro.resources
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB.Form_Inicio.resources
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB.Form_Login.resources
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Properties.Resources.resources
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_Menu.resources

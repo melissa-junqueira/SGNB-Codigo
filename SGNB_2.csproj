@@ -1,0 +1,243 @@
+﻿<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{494A45D2-B0EA-40A7-BCF0-7D3B0F23AE9C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>WindowsApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>SGNB_2</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".git\config" />
+    <None Include=".git\description" />
+    <None Include=".git\HEAD" />
+    <None Include=".git\hooks\applypatch-msg.sample" />
+    <None Include=".git\hooks\commit-msg.sample" />
+    <None Include=".git\hooks\fsmonitor-watchman.sample" />
+    <None Include=".git\hooks\post-update.sample" />
+    <None Include=".git\hooks\pre-applypatch.sample" />
+    <None Include=".git\hooks\pre-commit.sample" />
+    <None Include=".git\hooks\pre-merge-commit.sample" />
+    <None Include=".git\hooks\pre-push.sample" />
+    <None Include=".git\hooks\pre-rebase.sample" />
+    <None Include=".git\hooks\pre-receive.sample" />
+    <None Include=".git\hooks\prepare-commit-msg.sample" />
+    <None Include=".git\hooks\push-to-checkout.sample" />
+    <None Include=".git\hooks\sendemail-validate.sample" />
+    <None Include=".git\hooks\update.sample" />
+    <None Include=".git\index" />
+    <None Include=".git\info\exclude" />
+    <None Include=".git\logs\HEAD" />
+    <None Include=".git\logs\refs\heads\source" />
+    <None Include=".git\logs\refs\remotes\origin\HEAD" />
+    <None Include=".git\objects\pack\pack-1c558addd77b9fdc04cd2f58623a12748ebe271b.idx" />
+    <None Include=".git\objects\pack\pack-1c558addd77b9fdc04cd2f58623a12748ebe271b.pack" />
+    <None Include=".git\objects\pack\pack-1c558addd77b9fdc04cd2f58623a12748ebe271b.rev" />
+    <None Include=".git\packed-refs" />
+    <None Include=".git\refs\heads\source" />
+    <None Include=".git\refs\remotes\origin\HEAD" />
+    <None Include=".vs\SGNB-Codigo\FileContentIndex\e8f068dc-17b2-432f-aaa1-06a37b6f091d.vsidx" />
+    <None Include=".vs\SGNB-Codigo\v17\.wsuo" />
+    <None Include=".vs\SGNB-Codigo\v17\DocumentLayout.backup.json" />
+    <None Include=".vs\SGNB-Codigo\v17\DocumentLayout.json" />
+    <None Include=".vs\SGNB.csproj.dtbcache.json" />
+    <None Include=".vs\SGNB\FileContentIndex\7e704bc7-8228-4b81-9044-a13c313c8f8d.vsidx" />
+    <None Include=".vs\SGNB\FileContentIndex\c5e2acdd-9c42-4740-9351-3c6f18c5451d.vsidx" />
+    <None Include=".vs\SGNB\FileContentIndex\c7874515-e4c4-427b-9fab-b87fa369565f.vsidx" />
+    <None Include=".vs\SGNB\FileContentIndex\dd66e093-c803-4855-8710-d070910d94c7.vsidx" />
+    <None Include=".vs\SGNB\FileContentIndex\ff724994-a042-4e15-afa2-0f407b9001ee.vsidx" />
+    <None Include=".vs\SGNB\v17\.suo" />
+    <None Include=".vs\SGNB\v17\DocumentLayout.backup.json" />
+    <None Include=".vs\SGNB\v17\DocumentLayout.json" />
+    <None Include=".vs\slnx.sqlite" />
+    <None Include=".vs\VSWorkspaceState.json" />
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings" />
+    <None Include="SGNB_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form_RelatorioVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_RelatorioVenda.Designer.cs">
+      <DependentUpon>Form_RelatorioVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_VisualizacaoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_VisualizacaoCliente.Designer.cs">
+      <DependentUpon>Form_VisualizacaoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_VisualizacaoEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_VisualizacaoEstoque.Designer.cs">
+      <DependentUpon>Form_VisualizacaoEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_VisualizacaoFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_VisualizacaoFornecedor.Designer.cs">
+      <DependentUpon>Form_VisualizacaoFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_AgendarConserto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_AgendarConserto.Designer.cs">
+      <DependentUpon>Form_AgendarConserto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Cadastro.Designer.cs">
+      <DependentUpon>Form_Cadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_CadastroFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_CadastroFornecedor.Designer.cs">
+      <DependentUpon>Form_CadastroFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_CadastroPeça.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_CadastroPeça.Designer.cs">
+      <DependentUpon>Form_CadastroPeça.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_CadastroServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_CadastroServico.Designer.cs">
+      <DependentUpon>Form_CadastroServico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Inicio.Designer.cs">
+      <DependentUpon>Form_Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Login.Designer.cs">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Menu.Designer.cs">
+      <DependentUpon>Form_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_RegistrarVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_RegistrarVenda.Designer.cs">
+      <DependentUpon>Form_RegistrarVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs" />
+    <Compile Include="Properties\Resources1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form_RelatorioVenda.resx">
+      <DependentUpon>Form_RelatorioVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_VisualizacaoCliente.resx">
+      <DependentUpon>Form_VisualizacaoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_VisualizacaoEstoque.resx">
+      <DependentUpon>Form_VisualizacaoEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_VisualizacaoFornecedor.resx">
+      <DependentUpon>Form_VisualizacaoFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_AgendarConserto.resx">
+      <DependentUpon>Form_AgendarConserto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Cadastro.resx">
+      <DependentUpon>Form_Cadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_CadastroFornecedor.resx">
+      <DependentUpon>Form_CadastroFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_CadastroPeça.resx">
+      <DependentUpon>Form_CadastroPeça.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_CadastroServico.resx">
+      <DependentUpon>Form_CadastroServico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Inicio.resx">
+      <DependentUpon>Form_Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Login.resx">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Menu.resx">
+      <DependentUpon>Form_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_RegistrarVenda.resx">
+      <DependentUpon>Form_RegistrarVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".git\ms-persist.xml" />
+    <None Include="Resources\imagem_fundo 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".git\objects\info\" />
+    <Folder Include=".git\refs\tags\" />
+    <Folder Include=".vs\SGNB_2\v17\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

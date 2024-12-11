@@ -138,7 +138,7 @@
             this.btn_entrar.Name = "btn_entrar";
             this.btn_entrar.Size = new System.Drawing.Size(78, 25);
             this.btn_entrar.TabIndex = 2;
-            this.btn_entrar.Text = "Entrar";
+            this.btn_entrar.Text = "Confirmar";
             this.btn_entrar.UseVisualStyleBackColor = true;
             // 
             // lbl_senhaL
@@ -171,6 +171,7 @@
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.Name = "Form_Login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "SGNB - Login";
