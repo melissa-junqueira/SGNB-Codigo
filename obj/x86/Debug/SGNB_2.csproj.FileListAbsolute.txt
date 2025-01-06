@@ -11,3 +11,13 @@ C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.
 C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\WindowsApplication.exe
 C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\WindowsApplication.pdb
 C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_Menu.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_RelatorioVenda.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_VisualizacaoCliente.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_VisualizacaoEstoque.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_VisualizacaoFornecedor.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_AgendarConserto.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_CadastroFornecedor.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_CadastroPeça.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_CadastroServico.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_RegistrarVenda.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_CadastroCliente.resources

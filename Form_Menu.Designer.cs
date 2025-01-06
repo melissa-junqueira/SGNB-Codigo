@@ -92,6 +92,7 @@
             this.Button_RegistroVenda.TabIndex = 3;
             this.Button_RegistroVenda.Text = "Registrar Venda";
             this.Button_RegistroVenda.UseVisualStyleBackColor = true;
+            this.Button_RegistroVenda.Click += new System.EventHandler(this.Button_RegistroVenda_Click);
             // 
             // Button_RelatorioVenda
             // 
@@ -101,6 +102,7 @@
             this.Button_RelatorioVenda.TabIndex = 6;
             this.Button_RelatorioVenda.Text = "Relatório de Vendas";
             this.Button_RelatorioVenda.UseVisualStyleBackColor = true;
+            this.Button_RelatorioVenda.Click += new System.EventHandler(this.Button_RelatorioVenda_Click);
             // 
             // Button_Estoque
             // 
@@ -110,6 +112,7 @@
             this.Button_Estoque.TabIndex = 7;
             this.Button_Estoque.Text = "Visualizar Estoque";
             this.Button_Estoque.UseVisualStyleBackColor = true;
+            this.Button_Estoque.Click += new System.EventHandler(this.Button_Estoque_Click);
             // 
             // Button_Conserto
             // 
@@ -119,6 +122,7 @@
             this.Button_Conserto.TabIndex = 8;
             this.Button_Conserto.Text = "Agendamento de Conserto";
             this.Button_Conserto.UseVisualStyleBackColor = true;
+            this.Button_Conserto.Click += new System.EventHandler(this.Button_Conserto_Click);
             // 
             // Button_Peça
             // 
@@ -128,6 +132,7 @@
             this.Button_Peça.TabIndex = 9;
             this.Button_Peça.Text = "Cadastrar Peça";
             this.Button_Peça.UseVisualStyleBackColor = true;
+            this.Button_Peça.Click += new System.EventHandler(this.Button_Peça_Click);
             // 
             // Button_Fornecedor
             // 
@@ -137,6 +142,7 @@
             this.Button_Fornecedor.TabIndex = 10;
             this.Button_Fornecedor.Text = "Cadastrar Fornecedor";
             this.Button_Fornecedor.UseVisualStyleBackColor = true;
+            this.Button_Fornecedor.Click += new System.EventHandler(this.Button_Fornecedor_Click);
             // 
             // btn_voltar
             // 
@@ -155,6 +161,7 @@
             this.button1.TabIndex = 12;
             this.button1.Text = "Cadastrar Cliente";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -164,6 +171,7 @@
             this.button2.TabIndex = 13;
             this.button2.Text = "Cadastrar Serviço";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -173,6 +181,7 @@
             this.button3.TabIndex = 14;
             this.button3.Text = "Visualizar Cliente";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
@@ -182,6 +191,7 @@
             this.button4.TabIndex = 15;
             this.button4.Text = "Visualizar Fornecedor";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // Form_Menu
             // 

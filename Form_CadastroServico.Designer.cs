@@ -31,14 +31,14 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form_CadastroServico));
             this.lbl_titulo = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.textBox0 = new System.Windows.Forms.TextBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -70,6 +70,26 @@
             this.panel1.Size = new System.Drawing.Size(504, 240);
             this.panel1.TabIndex = 7;
             // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(89, 45);
+            this.textBox2.Multiline = true;
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(399, 151);
+            this.textBox2.TabIndex = 20;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.BackColor = System.Drawing.SystemColors.Control;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label3.Location = new System.Drawing.Point(8, 45);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(75, 17);
+            this.label3.TabIndex = 19;
+            this.label3.Text = "Descrição:";
+            // 
             // button3
             // 
             this.button3.BackColor = System.Drawing.Color.Lime;
@@ -81,6 +101,7 @@
             this.button3.TabIndex = 18;
             this.button3.Text = "Salvar";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button2
             // 
@@ -93,6 +114,7 @@
             this.button2.TabIndex = 17;
             this.button2.Text = "Cancelar";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // textBox1
             // 
@@ -131,26 +153,6 @@
             this.textBox0.Name = "textBox0";
             this.textBox0.Size = new System.Drawing.Size(181, 20);
             this.textBox0.TabIndex = 0;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.BackColor = System.Drawing.SystemColors.Control;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.label3.Location = new System.Drawing.Point(8, 45);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(75, 17);
-            this.label3.TabIndex = 19;
-            this.label3.Text = "Descrição:";
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(89, 45);
-            this.textBox2.Multiline = true;
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(399, 151);
-            this.textBox2.TabIndex = 20;
             // 
             // Form_CadastroServico
             // 

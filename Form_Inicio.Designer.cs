@@ -34,8 +34,8 @@
             this.lbl_titulo = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.btn_entrar = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
@@ -82,9 +82,9 @@
             // 
             this.panel2.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel2.Controls.Add(this.button1);
+            this.panel2.Controls.Add(this.btn_entrar);
             this.panel2.Controls.Add(this.label1);
-            this.panel2.Controls.Add(this.radioButton1);
-            this.panel2.Controls.Add(this.radioButton2);
             this.panel2.Location = new System.Drawing.Point(156, 131);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(213, 132);
@@ -101,29 +101,27 @@
             this.label1.Text = "Seja bem vindo!";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // radioButton1
+            // btn_entrar
             // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Font = new System.Drawing.Font("Perpetua", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioButton1.Location = new System.Drawing.Point(68, 97);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(92, 22);
-            this.radioButton1.TabIndex = 4;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "Cadastrar";
-            this.radioButton1.UseVisualStyleBackColor = true;
+            this.btn_entrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_entrar.Location = new System.Drawing.Point(68, 54);
+            this.btn_entrar.Name = "btn_entrar";
+            this.btn_entrar.Size = new System.Drawing.Size(78, 25);
+            this.btn_entrar.TabIndex = 3;
+            this.btn_entrar.Text = "Entrar";
+            this.btn_entrar.UseVisualStyleBackColor = true;
+            this.btn_entrar.Click += new System.EventHandler(this.btn_entrar_Click);
             // 
-            // radioButton2
+            // button1
             // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Font = new System.Drawing.Font("Perpetua", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioButton2.Location = new System.Drawing.Point(68, 57);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(70, 22);
-            this.radioButton2.TabIndex = 3;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "Entrar";
-            this.radioButton2.UseVisualStyleBackColor = true;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(68, 85);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(78, 25);
+            this.button1.TabIndex = 6;
+            this.button1.Text = "Cadastrar";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form_Inicio
             // 
@@ -158,9 +156,9 @@
         private System.Windows.Forms.Label lbl_titulo;
         private System.Windows.Forms.Label lbl_subtitulo;
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.RadioButton radioButton1;
-        private System.Windows.Forms.RadioButton radioButton2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btn_entrar;
     }
 }
 

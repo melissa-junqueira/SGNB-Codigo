@@ -94,6 +94,12 @@
     <None Include="SGNB_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Form_CadastroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_CadastroCliente.Designer.cs">
+      <DependentUpon>Form_CadastroCliente.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form_RelatorioVenda.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -183,6 +189,9 @@
     <Compile Include="Properties\Settings.Designer.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Form_CadastroCliente.resx">
+      <DependentUpon>Form_CadastroCliente.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form_RelatorioVenda.resx">
       <DependentUpon>Form_RelatorioVenda.cs</DependentUpon>
     </EmbeddedResource>

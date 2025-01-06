@@ -12,12 +12,28 @@ namespace SGNB
 {
     public partial class Form_Inicio : Form
     {
+
         public Form_Inicio()
         {
             InitializeComponent();
 
         }
 
+        private void btn_entrar_Click(object sender, EventArgs e)
+        {
+            Form_Login form = new Form_Login();
+            form.Show();
+            this.Hide();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form_Cadastro form = new Form_Cadastro();
+            form.Show();
+            this.Hide();
+        }
+
         
+
     }
 }

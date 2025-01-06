@@ -107,6 +107,7 @@
             this.btn_voltar.Size = new System.Drawing.Size(49, 25);
             this.btn_voltar.TabIndex = 7;
             this.btn_voltar.UseVisualStyleBackColor = true;
+            this.btn_voltar.Click += new System.EventHandler(this.btn_voltar_Click);
             // 
             // label1
             // 
@@ -140,6 +141,7 @@
             this.btn_entrar.TabIndex = 2;
             this.btn_entrar.Text = "Confirmar";
             this.btn_entrar.UseVisualStyleBackColor = true;
+            this.btn_entrar.Click += new System.EventHandler(this.btn_entrar_Click);
             // 
             // lbl_senhaL
             // 

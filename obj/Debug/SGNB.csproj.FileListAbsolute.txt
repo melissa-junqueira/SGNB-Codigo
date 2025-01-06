@@ -26,3 +26,19 @@ C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\
 C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\obj\Debug\SGNB.application
 C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\obj\Debug\SGNB.exe
 C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB\obj\Debug\SGNB.pdb
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\bin\Debug\SGNB.exe.config
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\bin\Debug\SGNB.exe.manifest
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\bin\Debug\SGNB.application
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\bin\Debug\SGNB.exe
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\bin\Debug\SGNB.pdb
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\Debug\SGNB.csproj.AssemblyReference.cache
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\Debug\SGNB.Form_Cadastro.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\Debug\SGNB.Form_Inicio.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\Debug\SGNB.Form_Login.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\Debug\SGNB.Properties.Resources.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\Debug\SGNB.csproj.GenerateResource.cache
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\Debug\SGNB.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\Debug\SGNB.exe.manifest
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\Debug\SGNB.application
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\Debug\SGNB.exe
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\Debug\SGNB.pdb

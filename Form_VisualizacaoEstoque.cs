@@ -16,5 +16,10 @@ namespace SGNB_2
         {
             InitializeComponent();
         }
+
+        private void btn_voltar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

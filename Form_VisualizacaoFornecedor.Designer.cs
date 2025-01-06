@@ -63,6 +63,7 @@
             this.btn_voltar.Size = new System.Drawing.Size(49, 25);
             this.btn_voltar.TabIndex = 12;
             this.btn_voltar.UseVisualStyleBackColor = true;
+            this.btn_voltar.Click += new System.EventHandler(this.btn_voltar_Click);
             // 
             // Form_VisualizacaoFornecedor
             // 
