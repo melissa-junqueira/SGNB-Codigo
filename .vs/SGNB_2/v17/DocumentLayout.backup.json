@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB-Codigo-aaa2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{494A45D2-B0EA-40A7-BCF0-7D3B0F23AE9C}|SGNB_2.csproj|c:\\users\\melis\\downloads\\sgnb (projeto 2 sem)\\projeto visual studio - sgnb\\sgnb-codigo-aaa2\\form_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494A45D2-B0EA-40A7-BCF0-7D3B0F23AE9C}|SGNB_2.csproj|solutionrelative:form_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494A45D2-B0EA-40A7-BCF0-7D3B0F23AE9C}|SGNB_2.csproj|C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB-Codigo-aaa2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494A45D2-B0EA-40A7-BCF0-7D3B0F23AE9C}|SGNB_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494A45D2-B0EA-40A7-BCF0-7D3B0F23AE9C}|SGNB_2.csproj|C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB-Codigo-aaa2\\form_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{494A45D2-B0EA-40A7-BCF0-7D3B0F23AE9C}|SGNB_2.csproj|solutionrelative:form_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB-Codigo-aaa2\\Form_Menu.cs",
+              "RelativeDocumentMoniker": "Form_Menu.cs",
+              "ToolTip": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB-Codigo-aaa2\\Form_Menu.cs [Design]",
+              "RelativeToolTip": "Form_Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T22:35:43.817Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_Menu.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB-Codigo-aaa2\\Form_Menu.cs",
+              "RelativeDocumentMoniker": "Form_Menu.cs",
+              "ToolTip": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB-Codigo-aaa2\\Form_Menu.cs",
+              "RelativeToolTip": "Form_Menu.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAawBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:03:37.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB-Codigo-aaa2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB-Codigo-aaa2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:44:43.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

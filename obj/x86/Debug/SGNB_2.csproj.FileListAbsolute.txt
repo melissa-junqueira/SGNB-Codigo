@@ -1,0 +1,77 @@
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\bin\Debug\WindowsApplication.exe.config
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\bin\Debug\WindowsApplication.exe
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\bin\Debug\WindowsApplication.pdb
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB.Form_Cadastro.resources
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB.Form_Inicio.resources
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB.Form_Login.resources
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Properties.Resources.resources
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\Pichau\source\repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_Menu.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_RelatorioVenda.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_VisualizacaoCliente.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_VisualizacaoEstoque.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_VisualizacaoFornecedor.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_AgendarConserto.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_CadastroFornecedor.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_CadastroPeça.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_CadastroServico.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_RegistrarVenda.resources
+C:\Users\Pichau\Source\Repos\melissa-junqueira\SGNB-Codigo\obj\x86\Debug\SGNB_2.Form_CadastroCliente.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\bin\Debug\WindowsApplication.exe.config
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\bin\Debug\WindowsApplication.exe
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\bin\Debug\WindowsApplication.pdb
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.csproj.AssemblyReference.cache
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_CadastroBicicleta.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_CadastroCliente.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_RelatorioVenda.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_VisualizarServicos.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_VisualizacaoCliente.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_VisualizacaoEstoque.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_VisualizacaoFornecedor.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_AgendarConserto.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB.Form_Cadastro.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_CadastroFornecedor.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_CadastroPeça.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_CadastroServico.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB.Form_Inicio.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB.Form_Login.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_Menu.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_RegistrarVenda.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_VisualizarAgendamento.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Properties.Resources.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.csproj.GenerateResource.cache
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.csproj.CoreCompileInputs.cache
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\WindowsApplication.exe
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_CadastroBike.resources
+C:\Users\melis\Downloads\SGNB-Codigo-aaa2\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_CadastroPeca.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\bin\Debug\WindowsApplication.exe.config
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\bin\Debug\WindowsApplication.exe
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\bin\Debug\WindowsApplication.pdb
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.csproj.AssemblyReference.cache
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_CadastroBike.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_CadastroCliente.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_RelatorioVenda.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_VisualizarServicos.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_VisualizacaoCliente.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_VisualizacaoEstoque.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_VisualizacaoFornecedor.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_AgendarConserto.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB.Form_Cadastro.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_CadastroFornecedor.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_CadastroPeca.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_CadastroServico.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB.Form_Inicio.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB.Form_Login.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_Menu.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_RegistrarVenda.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Form_VisualizarAgendamento.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.Properties.Resources.resources
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.csproj.GenerateResource.cache
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\SGNB_2.csproj.CoreCompileInputs.cache
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\WindowsApplication.exe
+C:\Users\melis\Downloads\SGNB (Projeto 2 sem)\Projeto VIsual Studio - SGNB\SGNB-Codigo-aaa2\obj\x86\Debug\WindowsApplication.pdb

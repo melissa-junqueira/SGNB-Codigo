@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E5846-C2D6-44CD-9D90-99727B56D042}|SGNB\\SGNB.csproj|c:\\users\\melis\\downloads\\sgnb (projeto 2 sem)\\projeto visual studio - sgnb\\sgnb\\sgnb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7E5846-C2D6-44CD-9D90-99727B56D042}|SGNB\\SGNB.csproj|solutionrelative:sgnb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E5846-C2D6-44CD-9D90-99727B56D042}|SGNB\\SGNB.csproj|C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB\\sgnb\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F7E5846-C2D6-44CD-9D90-99727B56D042}|SGNB\\SGNB.csproj|solutionrelative:sgnb\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E5846-C2D6-44CD-9D90-99727B56D042}|SGNB\\SGNB.csproj|c:\\users\\melis\\downloads\\sgnb (projeto 2 sem)\\projeto visual studio - sgnb\\sgnb\\sgnb\\form_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F7E5846-C2D6-44CD-9D90-99727B56D042}|SGNB\\SGNB.csproj|solutionrelative:sgnb\\form_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7E5846-C2D6-44CD-9D90-99727B56D042}|SGNB\\SGNB.csproj|C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB\\sgnb\\form_cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F7E5846-C2D6-44CD-9D90-99727B56D042}|SGNB\\SGNB.csproj|solutionrelative:sgnb\\form_cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB\\SGNB\\Program.cs",
+              "RelativeDocumentMoniker": "SGNB\\Program.cs",
+              "ToolTip": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB\\SGNB\\Program.cs*",
+              "RelativeToolTip": "SGNB\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:19:12.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB\\SGNB\\Form_Login.cs",
+              "RelativeDocumentMoniker": "SGNB\\Form_Login.cs",
+              "ToolTip": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB\\SGNB\\Form_Login.cs [Design]*",
+              "RelativeToolTip": "SGNB\\Form_Login.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:06:25.626Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_Inicio.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB\\SGNB\\Form_Inicio.cs",
+              "RelativeDocumentMoniker": "SGNB\\Form_Inicio.cs",
+              "ToolTip": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB\\SGNB\\Form_Inicio.cs [Design]",
+              "RelativeToolTip": "SGNB\\Form_Inicio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:06:21.169Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_Cadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB\\SGNB\\Form_Cadastro.cs",
+              "RelativeDocumentMoniker": "SGNB\\Form_Cadastro.cs",
+              "ToolTip": "C:\\Users\\melis\\Downloads\\SGNB (Projeto 2 sem)\\Projeto VIsual Studio - SGNB\\SGNB\\SGNB\\Form_Cadastro.cs [Design]",
+              "RelativeToolTip": "SGNB\\Form_Cadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:42:23.392Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

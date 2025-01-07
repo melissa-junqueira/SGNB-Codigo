@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\source\\repos\\melissa-junqueira\\SGNB-Codigo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{494A45D2-B0EA-40A7-BCF0-7D3B0F23AE9C}|SGNB_2.csproj|C:\\Users\\Pichau\\source\\repos\\melissa-junqueira\\SGNB-Codigo\\form_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{494A45D2-B0EA-40A7-BCF0-7D3B0F23AE9C}|SGNB_2.csproj|solutionrelative:form_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494A45D2-B0EA-40A7-BCF0-7D3B0F23AE9C}|SGNB_2.csproj|c:\\users\\pichau\\source\\repos\\melissa-junqueira\\sgnb-codigo\\form_visualizacaoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{494A45D2-B0EA-40A7-BCF0-7D3B0F23AE9C}|SGNB_2.csproj|solutionrelative:form_visualizacaoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494A45D2-B0EA-40A7-BCF0-7D3B0F23AE9C}|SGNB_2.csproj|c:\\users\\pichau\\source\\repos\\melissa-junqueira\\sgnb-codigo\\form_relatoriovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{494A45D2-B0EA-40A7-BCF0-7D3B0F23AE9C}|SGNB_2.csproj|solutionrelative:form_relatoriovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494A45D2-B0EA-40A7-BCF0-7D3B0F23AE9C}|SGNB_2.csproj|c:\\users\\pichau\\source\\repos\\melissa-junqueira\\sgnb-codigo\\form_visualizacaocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{494A45D2-B0EA-40A7-BCF0-7D3B0F23AE9C}|SGNB_2.csproj|solutionrelative:form_visualizacaocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_VisualizacaoEstoque.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\melissa-junqueira\\SGNB-Codigo\\Form_VisualizacaoEstoque.cs",
+              "RelativeDocumentMoniker": "Form_VisualizacaoEstoque.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\melissa-junqueira\\SGNB-Codigo\\Form_VisualizacaoEstoque.cs [Design]",
+              "RelativeToolTip": "Form_VisualizacaoEstoque.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:02:08.5Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_RelatorioVenda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\melissa-junqueira\\SGNB-Codigo\\Form_RelatorioVenda.cs",
+              "RelativeDocumentMoniker": "Form_RelatorioVenda.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\melissa-junqueira\\SGNB-Codigo\\Form_RelatorioVenda.cs [Design]",
+              "RelativeToolTip": "Form_RelatorioVenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:00:38.382Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_VisualizacaoCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\melissa-junqueira\\SGNB-Codigo\\Form_VisualizacaoCliente.cs",
+              "RelativeDocumentMoniker": "Form_VisualizacaoCliente.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\melissa-junqueira\\SGNB-Codigo\\Form_VisualizacaoCliente.cs [Design]",
+              "RelativeToolTip": "Form_VisualizacaoCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:59:06.396Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\melissa-junqueira\\SGNB-Codigo\\Form_Menu.cs",
+              "RelativeDocumentMoniker": "Form_Menu.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\melissa-junqueira\\SGNB-Codigo\\Form_Menu.cs [Design]",
+              "RelativeToolTip": "Form_Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:15:43.133Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
